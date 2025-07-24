@@ -3,5 +3,5 @@ uvicorn[standard]==0.24.0
 python-dotenv==1.0.0
 youtube-transcript-api          # keep whatever latest build you installed
 openai
-pydantic==2.5.0
+pydantic
 httpx
