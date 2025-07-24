@@ -33,14 +33,14 @@
 
 ## 🌐 Demo / Interface Preview
 
-> 🔽 Add your screenshots or GIFs here manually by uploading them to GitHub or linking from `/assets/`.
+> 🔽 Add your screenshots here linking from `/assets/`.
 
 ### Example:
 
-![Home UI](assets/Screenshot 2025-07-24 221811.png)
+![Home UI](assets/screenshot-1.jpg)
 *Paste a YouTube URL*
 
-![Answer UI](assets/Screenshot 2025-07-24 221832.png)
+![Answer UI](assets/screenshot-2.jpg)
 *Ask questions and get answers from OpenAI*
 
 ---
